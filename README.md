@@ -1,11 +1,11 @@
 # dbreflect
-golang  auto reflect  columns to struct
+golang  auto reflect  columns to struct by tag
 
 
 mysql table <br/>
-
-  id  int
-  name vchar(64)
-  other....
+ <br/>
+  id  int <br/>
+  name vchar(64) <br/>
+  other.... <br/>
   
   
